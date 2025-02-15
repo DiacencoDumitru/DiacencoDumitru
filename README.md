@@ -10,13 +10,13 @@
 
 <div align="center">
  
-🔍 I’m currently looking for a job and preparing for interviews.
+🔍 Looking for a job and preparing for interviews.
 
-📖 I actively practice problem-solving on LeetCode to develop my algorithmic thinking, enhance logical reasoning, and strengthen my data structures knowledge.
+📖 Practicing LeetCode to sharpen problem-solving, logic, and data structures.
 
-🚀 I’m a lifelong learner who sets clear goals and persistently works to achieve them, constantly improving my skills in the IT field.
+🚀 Lifelong learner, setting goals and constantly improving in IT.
 
-⚡ Fun fact: The first computer bug was an actual moth found in a relay of the Harvard Mark II computer in 1947.
+⚡ Fun fact: The first computer bug was a moth in the Harvard Mark II (1947).
 
  </div>
  
