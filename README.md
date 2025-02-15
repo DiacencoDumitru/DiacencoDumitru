@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,docker,idea,github,git" />
-    <img src="https://skillicons.dev/icons?i=java,hibernate,spring, python,go,javascript,mysql,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,python,go,javascript,mysql,postgres" /><br>
 </div>
 
 <br/>
