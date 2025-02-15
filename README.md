@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+🔍 I’m currently looking for a job and preparing for interviews.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+📖 I actively practice problem-solving on LeetCode to develop my algorithmic thinking, enhance logical reasoning, and strengthen my data structures knowledge.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🚀 I’m a lifelong learner who sets clear goals and persistently works to achieve them, constantly improving my skills in the IT field.
+
+⚡ Fun fact: The first computer bug was an actual moth found in a relay of the Harvard Mark II computer in 1947.
 
  </div>
  
