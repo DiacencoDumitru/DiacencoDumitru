@@ -39,9 +39,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=idea,java,hibernate,spring,html,css,docker,mysql,postgres" /><br>
     <img src="https://skillicons.dev/icons?i=python,go,javascript,github,git" />
-    ![](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=contest)
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?theme=dark)
 </div>
 
 <br/>
@@ -58,5 +55,8 @@
 -->
 
 <br/><br/>
-
+![](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?theme=dark)
 <hr/>
+
