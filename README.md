@@ -48,8 +48,11 @@
 <div align=center>
     
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark)
+<br><br/>
 ![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<br><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent)
+<br><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact)
 
 </div>
