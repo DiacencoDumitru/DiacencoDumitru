@@ -3,7 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dumitru+Diacenco!;" />
 </h1>
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
+![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&stroke=%23BB432C)
 <h3 align="center">A passionate software developer from Moldova</h3>
 
 <br/>
@@ -54,6 +55,4 @@
 </div>
 -->
 <br/><br/>
-![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
-![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&stroke=%23BB432C)
 <hr/>
