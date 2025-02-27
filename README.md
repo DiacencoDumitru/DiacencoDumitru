@@ -48,6 +48,7 @@
 <div align=center>
     
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark&border=0&radius=20&title_color=b362ff&fire=b362ff&currStreakLabel=b362ff)
 ![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 </div>
