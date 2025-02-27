@@ -43,9 +43,9 @@
 
 <br/>
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
 ![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&stroke=%23BB432C)
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <!--
 <div align=center>
