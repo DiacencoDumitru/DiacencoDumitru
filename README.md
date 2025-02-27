@@ -55,8 +55,9 @@
 -->
 
 <br/><br/>
-![](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=contest)
-![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?theme=dark)
+![](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=activity)
 <hr/>
 
