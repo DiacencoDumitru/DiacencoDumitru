@@ -47,6 +47,7 @@
 <br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
+<br/><br/>
 ![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&stroke=%23BB432C)
 <!--
 <div align=center>
