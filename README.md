@@ -45,10 +45,8 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
-    ![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&stroke=%23BB432C)
-</div>
+![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
+![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&stroke=%23BB432C)
 <!--
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
