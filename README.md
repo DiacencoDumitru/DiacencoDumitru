@@ -44,7 +44,7 @@
 <br/>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
+![](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=contest)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?theme=dark)
 <br>
