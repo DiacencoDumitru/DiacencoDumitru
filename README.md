@@ -50,6 +50,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark)
 ![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 </div>
 <!--
