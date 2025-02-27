@@ -54,7 +54,6 @@
 </div>
 -->
 <br/><br/>
+<hr/>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap)
 ![Codewars](https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&stroke=%23BB432C)
-<hr/>
-
