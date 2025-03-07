@@ -9,15 +9,13 @@
 <br/>
 
 <div align="center">
-    <p align="left">
-    - 🔍 Looking for a job and preparing for interviews.
-    
-    - 📖 Practicing LeetCode to sharpen problem-solving, logic, and data structures.
-    
-    - 🚀 Lifelong learner, setting goals and constantly improving in IT.
-    
-    - ⚡ Fun fact: The first computer bug was a moth in the Harvard Mark II (1947).
-    </p>
+🔍 Looking for a job and preparing for interviews.
+
+📖 Practicing LeetCode to sharpen problem-solving, logic, and data structures.
+
+🚀 Lifelong learner, setting goals and constantly improving in IT.
+
+⚡ Fun fact: The first computer bug was a moth in the Harvard Mark II (1947).
 </div>
  
 <div align="center"> 
