@@ -40,8 +40,8 @@ Practicing problem-solving on <b>LeetCode</b> and preparing for backend engineer
 
 <img height="250" src="https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark"/>
 
-<img height="100" src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent"/>
 
-<img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact"/>
 
 </p>
