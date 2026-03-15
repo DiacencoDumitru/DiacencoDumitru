@@ -10,13 +10,12 @@
 
 <div align="center">
 
-🔍 Looking for a job and preparing for interviews.
+Java Backend Developer from Moldova
 
-📖 Practicing LeetCode to sharpen problem-solving, logic, and data structures.
+Focused on building scalable backend systems using Java, Spring Boot, and microservices architecture.
 
-🚀 Lifelong learner, setting goals and constantly improving in IT.
+Currently preparing for backend engineering roles and strengthening problem-solving skills with LeetCode.
 
-⚡ Fun fact: The first computer bug was a moth in the Harvard Mark II (1947).
 </div>
  
 <div align="center"> 
