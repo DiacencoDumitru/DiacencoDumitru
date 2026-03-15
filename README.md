@@ -42,6 +42,6 @@ Practicing problem-solving on <b>LeetCode</b> and preparing for backend engineer
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact"/>
 
 </p>
