@@ -35,13 +35,11 @@ Practicing problem-solving on <b>LeetCode</b> and preparing for backend engineer
 ### 📊 Stats
 
 <p align="center">
-
 <img height="250" src="https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark"/>
-
 <img height="250" src="https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact"/>
-
+<p align="center">
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact&langs_count=6"/>
 </p>
