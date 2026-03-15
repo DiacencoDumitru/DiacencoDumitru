@@ -40,6 +40,6 @@ Practicing problem-solving on <b>LeetCode</b> and preparing for backend engineer
 </p>
 
 <p align="center">
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent"/>
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact&langs_count=6"/>
+<img width="320" src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent"/>
+<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact&langs_count=6"/>
 </p>
