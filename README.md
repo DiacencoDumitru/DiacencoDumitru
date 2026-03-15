@@ -38,10 +38,10 @@ Practicing problem-solving on <b>LeetCode</b> and preparing for backend engineer
 
 <img src="https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark"/>
 
+<img src="https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact"/>
-
-<img src="https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark"/>
 
 </p>
