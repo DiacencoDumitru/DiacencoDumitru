@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DiacencoDumitru.visitor-badge"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&center=true&vCenter=true&width=480&height=60&duration=4000&lines=Hi+👋;+I'm+Dumitru+Diacenco;+Java+Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&center=true&vCenter=true&width=480&height=60&duration=4000&lines=Hi+👋;+I'm+Dumitru+Diacenco;+Java+Software+Engineer" />
 </h1>
 
 <p align="center">
