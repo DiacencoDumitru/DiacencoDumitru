@@ -10,12 +10,11 @@
 </div>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=DiacencoDumitru&label=Profile%20views&color=0e75b6&style=flat" />
 Java Software Engineer from Moldova 🇲🇩 <br>
 Building scalable backend systems with <b>Java, Spring Boot, Microservices</b><br>
 Practicing <b>LeetCode</b> for backend engineering roles.
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=DiacencoDumitru&label=Profile%20views&color=0e75b6&style=flat" />
 ---
 
 ### ⚒ Tech Stack
