@@ -5,12 +5,12 @@
 
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&center=true&vCenter=true&width=480&height=60&duration=4000&lines=Hi+👋;+I'm+Dumitru+Diacenco;+Java+Software+Engineer" />
+    <img src="https://komarev.com/ghpvc/?username=DiacencoDumitru&label=Profile%20views&color=0e75b6&style=flat" />
   </h1>
 
 </div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DiacencoDumitru&label=Profile%20views&color=0e75b6&style=flat" />
 Java Software Engineer from Moldova 🇲🇩 <br>
 Building scalable backend systems with <b>Java, Spring Boot, Microservices</b><br>
 Practicing <b>LeetCode</b> for backend engineering roles.
