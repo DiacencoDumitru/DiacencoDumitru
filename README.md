@@ -12,7 +12,7 @@
 <p align="center">
 Java Software Engineer from Moldova 🇲🇩 <br>
 Building scalable backend systems with <b>Java, Spring Boot, Microservices</b><br>
-Practicing **LeetCode** for backend engineering roles
+Practicing <b>LeetCode</b> for backend engineering roles.
 </p>
 
 <p align="center">
