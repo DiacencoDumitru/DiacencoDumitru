@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&center=true&vCenter=true&width=480&height=60&duration=4000&lines=Hi+👋;+I'm+Dumitru+Diacenco;+Java+Software+Engineer" />
 </h1>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=200&section=header&text=Diacenco%20Dumitru&fontSize=40&animation=fadeIn" />
+
 <p align="center">
 Java Software Engineer from Moldova 🇲🇩 <br>
 Building scalable backend systems with <b>Java, Spring Boot, Microservices</b><br>
