@@ -30,19 +30,19 @@ Practicing <b>LeetCode</b> for backend engineering roles.
   <p align="center">
     <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
     <img alt="Spring Data" src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=flat&logo=spring&logoColor=white" />
-    <img alt="OpenFeign" src="https://img.shields.io/badge/OpenFeign-111111?style=flat&logo=apache&logoColor=white" />
+    <img alt="OpenFeign" src="https://img.shields.io/badge/OpenFeign-111111?style=flat" />
+    <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
     <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-    <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white" />
   </p>
 
   <p align="center">
-    <img alt="Zipkin" src="https://img.shields.io/badge/Zipkin-111111?style=flat" />
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+    <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white" />
     <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit%205-25A162?style=flat&logo=junit5&logoColor=white" />
     <img alt="Mockito" src="https://img.shields.io/badge/Mockito-111111?style=flat" />
     <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white" />
     <img alt="Solr" src="https://img.shields.io/badge/Solr-D9411E?style=flat&logo=apachesolr&logoColor=white" />
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   </p>
 </details>
 
