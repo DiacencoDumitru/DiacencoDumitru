@@ -20,7 +20,23 @@ Practicing <b>LeetCode</b> for backend engineering roles.
 ### ⚒ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,docker,idea,git,github,html,css"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,junit,mysql,postgres,mongodb,redis,elasticsearch,kafka,rabbitmq,docker,gcp,git,github,idea" />
+</p>
+
+<p align="center">
+  <!-- extras (not available on skillicons): Spring Security, Spring Data, OpenFeign, Microservices/Distributed Systems, Cassandra, Solr, Prometheus, Grafana, Zipkin, Dynatrace, Mockito -->
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img alt="Spring Data" src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="OpenFeign" src="https://img.shields.io/badge/OpenFeign-000000?style=for-the-badge&logo=apache&logoColor=white" />
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-1F6FEB?style=for-the-badge&logoColor=white" />
+  <img alt="Distributed Systems" src="https://img.shields.io/badge/Distributed%20Systems-1F6FEB?style=for-the-badge&logoColor=white" />
+  <img alt="Cassandra" src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+  <img alt="Solr" src="https://img.shields.io/badge/Apache%20Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="Zipkin" src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logoColor=white" />
+  <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
+  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-1F6FEB?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
