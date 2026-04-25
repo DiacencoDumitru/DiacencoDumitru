@@ -17,27 +17,29 @@ Practicing <b>LeetCode</b> for backend engineering roles.
 
 ---
 
-### ⚒ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgres,mongodb,redis,elasticsearch,kafka,rabbitmq,docker,gcp,git,github,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgres,mongodb,redis,elasticsearch,kafka,rabbitmq,docker,gcp,git,github,idea&perline=9" />
 </p>
-<p align="center">
-  <!-- extras (not available on skillicons): Spring Security, Spring Data, OpenFeign, Microservices/Distributed Systems, Cassandra, Solr, Prometheus, Grafana, Zipkin, Dynatrace, Mockito, JUnit -->
-  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img alt="Spring Data" src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="OpenFeign" src="https://img.shields.io/badge/OpenFeign-000000?style=for-the-badge&logo=apache&logoColor=white" />
-  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-1F6FEB?style=for-the-badge&logoColor=white" />
-  <img alt="Distributed Systems" src="https://img.shields.io/badge/Distributed%20Systems-1F6FEB?style=for-the-badge&logoColor=white" />
-  <img alt="Apache Cassandra" src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
-  <img alt="Apache Solr" src="https://img.shields.io/badge/Apache%20Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img alt="Zipkin" src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logoColor=white" />
-  <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
-  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-1F6FEB?style=for-the-badge&logoColor=white" />
-  <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-</p>
+
+<details>
+  <summary><b>More (Security / Observability / Testing)</b></summary>
+  <br/>
+  <p align="center">
+    <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
+    <img alt="Spring Data" src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=flat&logo=spring&logoColor=white" />
+    <img alt="OpenFeign" src="https://img.shields.io/badge/OpenFeign-111111?style=flat&logo=apache&logoColor=white" />
+    <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white" />
+    <img alt="Solr" src="https://img.shields.io/badge/Solr-D9411E?style=flat&logo=apachesolr&logoColor=white" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+    <img alt="Zipkin" src="https://img.shields.io/badge/Zipkin-111111?style=flat" />
+    <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white" />
+    <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit%205-25A162?style=flat&logo=junit5&logoColor=white" />
+    <img alt="Mockito" src="https://img.shields.io/badge/Mockito-111111?style=flat" />
+  </p>
+</details>
 
 ---
 
