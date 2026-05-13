@@ -8,7 +8,7 @@
 
 <br/>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,redis,prometheus,kafka,rabbitmq,docker,gcp,git&perline=7" />
@@ -39,7 +39,7 @@
 
 ---
 
-### Stats
+<h2 align="center">Stats</h2>
 
 <p align="center">
 <img height="250" src="https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark"/>
