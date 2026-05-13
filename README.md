@@ -57,6 +57,6 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-<img width="49%" src="https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark"/>
+<img width="49%" height="250" src="https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark"/>
 <img width="49%" src="https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark"/>
 </p>
