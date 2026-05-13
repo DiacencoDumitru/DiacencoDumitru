@@ -1,13 +1,12 @@
 <div align="center">
-
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=3B82F6&lines=Hi+👋;+I'm+Dumitru+Diacenco;+Java+Software+Engineer" />
+
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
-
-<h1> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&center=true&vCenter=true&width=480&height=60&duration=4000&color=3B82F6&lines=Hi+👋;+I'm+Dumitru+Diacenco;+Java+Software+Engineer" /> 
-</h1>
-
 </div>
+
+<br/>
 
 ## Tech Stack
 
