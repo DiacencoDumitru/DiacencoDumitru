@@ -24,7 +24,7 @@ Practicing <b>LeetCode</b> for backend engineering roles.
 </p>
 
 <details>
-  <summary><b>More (Ecosystem)</b></summary>
+  <summary><b>More</b></summary>
   <br/>
 
   <p align="center">
