@@ -56,6 +56,6 @@ Practicing <b>LeetCode</b> for backend engineering roles.
 </p>
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=transparent&cache_seconds=1800"/>
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact&langs_count=6&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
