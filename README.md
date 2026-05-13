@@ -8,7 +8,6 @@
 </h1>
 
 </div>
----
 
 ## Tech Stack
 
