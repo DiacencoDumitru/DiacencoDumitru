@@ -20,7 +20,7 @@ Practicing <b>LeetCode</b> for backend engineering roles.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,redis,prometheus,kafka,rabbitmq,docker,gcp,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,redis,prometheus,kafka,rabbitmq,docker,gcp,git&perline=7" />
 </p>
 
 <details>
