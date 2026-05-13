@@ -1,16 +1,17 @@
 <div align="center">
 
-<table>
-<tr>
-<td border="0">
+<table style="border: none;">
+<tr style="border: none;">
+
+<td style="border: none; padding: 0;">
 <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="220"/>
 </td>
 
-<td border="0" align="center">
+<td style="border: none; padding: 0;" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=3B82F6&lines=Hi+👋;+I'm+Dumitru+Diacenco;+Java+Software+Engineer"/>
 </td>
 
-<td border="0">
+<td style="border: none; padding: 0;">
 <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="220"/>
 </td>
 
