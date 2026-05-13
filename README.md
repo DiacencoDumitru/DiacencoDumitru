@@ -54,8 +54,3 @@ Practicing <b>LeetCode</b> for backend engineering roles.
 <img height="250" src="https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark"/>
 <img height="250" src="https://github.r2v.ch/codewars?user=Diacenco%20Dumitru&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark"/>
 </p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiacencoDumitru&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiacencoDumitru&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
