@@ -48,7 +48,7 @@ Practicing <b>LeetCode</b> for backend engineering roles.
 
 ---
 
-### 📊 Stats
+### Stats
 
 <p align="center">
 <img height="250" src="https://leetcard.jacoblin.cool/DumitruDiacenco?ext=heatmap&theme=dark"/>
